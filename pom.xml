@@ -10,6 +10,9 @@
     <module>TPJEE-ear</module>
     <module>TPJEE-web</module>
     <module>TPJEE-ejb</module>
+    <module>TPJEEShared</module>
+    <module>TPJEEColl</module>
+    <module>TPJEEDAB</module>
   </modules>
   <dependencies>
     <dependency>
